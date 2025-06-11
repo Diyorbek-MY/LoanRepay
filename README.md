@@ -1,3 +1,5 @@
+link in kaggle: https://www.kaggle.com/competitions/binaryclassificationwithabankchurndataset/
+
 # 💳 Bank Customer Repayment Prediction
 
 This project focuses on predicting whether a customer will **repay a loan** or not based on their financial and demographic information. It is part of a certification project that demonstrates skills in data preprocessing, model development, and evaluation using supervised machine learning techniques.
